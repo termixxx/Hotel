@@ -39,3 +39,6 @@
         </ul>
     </li>
 </ol>
+<h1></br>База данных</h1>
+
+![9_OtHUlk9s4](https://user-images.githubusercontent.com/56223924/204090369-7b6b0361-ab41-4a96-aff4-dbf60832469c.jpg)
