@@ -39,3 +39,5 @@
         </ul>
     </li>
 </ol>
+<h1></br>База данных</h1>
+![image](https://user-images.githubusercontent.com/56223924/204090337-3e14ee66-949b-41cb-9737-db3e5fa0dee7.png)
